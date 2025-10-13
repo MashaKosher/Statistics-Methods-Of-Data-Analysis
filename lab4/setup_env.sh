@@ -18,3 +18,4 @@ echo "Для активации используйте: source myenv/bin/activat
 echo "Для запуска Jupyter: ./start_jupyter.sh"
 
 
+
