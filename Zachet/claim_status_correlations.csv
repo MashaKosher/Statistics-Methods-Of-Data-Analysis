@@ -1,0 +1,12 @@
+Признак,Корреляция_с_claim_status
+claim_status_numeric,1.0
+#,0.8137201751168643
+video_id,-0.0019559535703749793
+video_duration_sec,-0.0037288276162036013
+Unnamed: 13,-0.03709295062169849
+Unnamed: 12,-0.1111899960524473
+video_comment_count,-0.1528266396989679
+video_download_count,-0.1536892799020773
+video_share_count,-0.3634496476331907
+video_like_count,-0.5670185736134259
+video_view_count,-0.698176261800187

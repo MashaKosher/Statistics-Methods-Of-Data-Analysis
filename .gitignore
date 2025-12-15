@@ -1,2 +1,24 @@
 __pycache__/
 venv/
+
+# Изображения на всех уровнях
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+*.webp
+*.tiff
+*.tif
+*.PNG
+*.JPG
+*.JPEG
+*.GIF
+*.BMP
+*.SVG
+*.ICO
+*.WEBP
+*.TIFF
+*.TIF
